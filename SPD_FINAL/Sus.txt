@@ -1,0 +1,6 @@
+Graph data           structure comprises various nodes and multiple edges connecting these nodes. The nodes of the graph are connected by weighted      edges, which represent the distance to be traversed to reach there.
+Dijkstra’s algorithm is      an effective and proficient algorithm proposed by Edsger.W. Dijkstra to navigate the shortest distance and path to reach a               given destination.
+In computer science data structures are used to store, organize, and manipulate data efficiently, and science data differs greatly so do data structures. For the experimental study, we will be considering the Hash Table and Graph data structures. Hash tables provide a dynamic method of inserting, delting, and manipulating data through providing each element with a hash value or a key.  
+Google Maps employs Graph data structures for the calculation of the shortest path from the source (point A) to the destination (point B).
+In this paper, we will be comparing three different searching algorithms, which are hash lookup, breadth-first search, brute force search.
+Thus Dijkstra devised an algorithm to find the shortest route from the source to the destination. 
