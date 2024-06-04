@@ -24,8 +24,14 @@ Clone the repository:
 git clone https://github.com/Ahmed-Fawzy14/CheckIT.git
 ```
 ### Installation
+```sh
 cd CheckIT
 g++ -o checkit main.cpp
 ./checkit
+```
 
-###Contributions
+### Contributions
+Project in The American University in Cairo for the final project for the course Fundamentals of Computing II:
+Ahmed Fawzy Abdelkader 
+Diyaa Hamdy
+Cherif Sameh
