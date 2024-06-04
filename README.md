@@ -22,3 +22,10 @@ CheckIT is a simple plagiarism and similarity detector that uses Brute Force and
 Clone the repository:
 ```sh
 git clone https://github.com/Ahmed-Fawzy14/CheckIT.git
+```
+### Installation
+cd CheckIT
+g++ -o checkit main.cpp
+./checkit
+
+###Contributions
