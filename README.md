@@ -30,8 +30,8 @@ g++ -o checkit main.cpp
 ./checkit
 ```
 
-## Contributions
+### Contributions
 Project in The American University in Cairo for the final project for the course Fundamentals of Computing II:
-Ahmed Fawzy Abdelkader 
-Diyaa Hamdy
-Cherif Sameh
+- Ahmed Fawzy Abdelkader
+- Diyaa Hamdy
+- Cherif Sameh
